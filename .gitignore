@@ -1,0 +1,16 @@
+# Build output
+target/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven
+*.log
+
+# Maven wrapper (not needed)
+.mvn/wrapper/
